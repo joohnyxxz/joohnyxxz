@@ -6,6 +6,7 @@ Sou desenvolvedor back-end e estudo no instituto jef. Meus hobbys são escutar m
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgresSQL" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Css" width="40">
@@ -20,11 +21,6 @@ Sou desenvolvedor back-end e estudo no instituto jef. Meus hobbys são escutar m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40"/>
 </div>
-
-<br><br>
-
-### Minhas Estatísticas
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joohnyxxz&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/joohnyxxz)
 
 <br><br>
 
