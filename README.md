@@ -1,6 +1,6 @@
 # Olá, eu sou o João Vitor! 👋
 
-Sou desenvolvedor back-end e estudo no instituto jef. Meus hobbys são escutar música, dormir, jogar esportes ou videogame, adoro programar, e passar o tempo com a família! Tenho 15 anos, e estou cursando o 2° ano do ensino médio.
+Sou desenvolvedor back-end e estudo no instituto jef. Meus hobbys são escutar música, dormir, jogar esportes ou videogame, adoro programar, e passar o tempo com a família! Tenho 16 anos, e estou cursando o 2° ano do ensino médio.
 
 ## ⚙️ Minha Stack Principal:
 <div>
